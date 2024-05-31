@@ -1,6 +1,6 @@
-# Bienvenido a mi Repositorio
+# Bienvenido a hello-git
 
-¡Hola! Soy [tu nombre aquí] y este es mi repositorio de helloGit. En este repositorio encontrarás
+¡Hola! Soy Jorge Espejo y este es mi repositorio de helloGit
 
 ## Instalación
 
